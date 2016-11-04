@@ -44,4 +44,6 @@
 
 */
 
-// YOUR CODE HERE
+// // YOUR CODE HERE
+// this might help
+// http://stackoverflow.com/questions/8648892/convert-url-parameters-to-a-javascript-object
